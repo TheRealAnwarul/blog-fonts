@@ -1,0 +1,9 @@
+<style>
+@font-face {
+  font-family: 'SutonnyMJ';
+  src: url('https://cdn.jsdelivr.net/gh/TheRealAnwarul/blog-fonts@main/SutonnyMJ-Regular.ttf') format('truetype');
+}
+body {
+  font-family: 'SutonnyMJ', sans-serif;
+}
+</style>
